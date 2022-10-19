@@ -2,5 +2,7 @@
 
 Welcome to Shell Script
 Happy learning
-\n It will help to DevOps Engineers\n
+
+It will help to DevOps Engineers
+
 DevOps has a good feature
